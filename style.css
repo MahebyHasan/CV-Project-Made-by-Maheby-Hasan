@@ -1,0 +1,237 @@
+/* ----------------------
+	header section start
+-------------------------*/
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	
+	background-color: #f1e8e8;	
+	font-family: arial;
+}
+
+.container{
+	
+	width: 1000px;	
+	background-color: #3de2ec3d;	
+	margin: 0 auto;	
+	padding: 20px;
+}
+
+.header{
+	
+	
+}
+
+
+.profile_image{
+	width: 100px;
+	height: 120px;
+	border: 5px solid #8a1cc7;
+	border-radius: 50%;
+	float: left;
+}
+
+.header-bio{
+	float: left;
+	padding: 30px;
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: #8a1cc7;
+}
+
+.header-contact{
+	float: right;
+	padding: 40px;
+	
+}
+
+.header-contact a{
+	text-decoration: none;
+	color: #8a1cc7;
+	font-weight: bold;
+}
+
+.header-contact a:hover{
+	color: #ef1010;
+	text-decoration: underline;
+	
+}
+
+
+.div-clear{
+	clear: both;
+	
+	
+	
+}
+
+hr{
+	border: solid 5px;
+	color: black;
+	margin: 20px auto;
+	border-bottom: none;
+	
+	
+}
+
+/* ----------------------
+	header section end
+-------------------------*/
+
+/* ----------------------
+	Personal Infomation start
+-------------------------*/
+
+#personal-section{
+	text-align: justify;
+	
+}
+
+
+.content{
+	
+	
+	
+}
+
+.left-div{
+	width: 30%;
+	float:left;
+	
+	
+	
+}
+
+.right-div{
+	width: 70%;
+	float:right;
+	
+	
+	
+	
+}
+
+.common-hr{
+	border: solid black 1px;
+	border-bottom: none;
+	width: 100%;
+	margin: 20px auto;
+	
+	
+}
+/* ----------------------
+	Personal Infomation end
+-------------------------*/
+
+
+/* ----------------------
+	work section start
+-------------------------*/
+
+#work-experience{
+	text-align: justify;
+	
+	
+}
+
+
+/* ----------------------
+	work section end
+-------------------------*/
+
+
+
+
+
+/* ----------------------
+	key section start
+-------------------------*/
+
+#key-section{
+	text-align: justify;
+	
+	
+}
+
+
+/* ----------------------
+	Key section end
+-------------------------*/
+
+
+
+
+
+
+/* ----------------------
+	education section start
+-------------------------*/
+
+.education-template-left{
+	float: left;
+	width: 48%;
+
+	
+}
+
+.education-template-right{
+	float: left;
+	width:45%;
+	text-align: justify;
+}
+
+/* ----------------------
+	education section end
+-------------------------*/
+
+
+
+/* ----------------------
+	footer section start
+-------------------------*/
+
+.bottom-container{
+	background-color: #463939;
+	text-align: center;
+	padding: 10px;
+	padding-bottom: 15px;
+	
+	
+}
+
+.bottom-container a{
+	color: white;
+	text-decoration: none;
+	margin: 5px;
+	
+	
+}
+
+
+.bottom-container a:hover{
+	color: #8a1cc7;
+	text-decoration: underline;
+	
+}
+
+
+.bottom-container p{
+	color: white;
+	margin-top: 10px;
+	
+}
+
+/* ----------------------
+	footer section start
+-------------------------*/
+
+
+
+
+/* This project is made by- MAHEBY HASAN */
